@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "ae223ecade6eaaa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d937d8e748c9ecdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceb7c1f16eae89f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vorlagen/Literatur-Vorlage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1467b7f3bdd8b035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Literaturverzeichnis/Kawakami_2023_Conceptualising data-driven modelling.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcd95151f2d4045a",
+    "type": "split",
+    "children": [
+      {
+        "id": "21659b887f6c42bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceb8ddf0b92eff47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "492437857d0480c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df40d8b54fc0c424",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "44f1bdbbd4693130",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f1b71e9e2a9ab62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c839f7a7a88292b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05 - Literaturverzeichnis/Kawakami_2023_Conceptualising data-driven modelling.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad8b6ec69fb4b5b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05 - Literaturverzeichnis/Kawakami_2023_Conceptualising data-driven modelling.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a57c899143aa1383",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d3fdccdfd872fe26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05 - Literaturverzeichnis/Kawakami_2023_Conceptualising data-driven modelling.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "1467b7f3bdd8b035",
+  "lastOpenFiles": [
+    "07 - Docs/Kawakami-2023-Conceptualising data-driven modelling in school mathematics.pdf",
+    "Vorlagen/Literatur-Vorlage.md",
+    "05 - Literaturverzeichnis/Kawakami_2023_Conceptualising data-driven modelling.md",
+    "How to Obisidian.md",
+    "06 - Figs/Pasted image 20230730225740.png",
+    "07 - Docs",
+    "Neuer Ordner",
+    "Vorlagen/Notizen-Vorlage.md",
+    "Vorlagen/Inhaltsverzeichnis-Vorlage.md",
+    "Vorlagen",
+    "06 - Figs",
+    "05 - Literaturverzeichnis",
+    "04 - Someday Maybe",
+    "03 - Permanent Notes",
+    "02 - Literature Notes",
+    "01 - Fleeting Notes"
+  ]
+}
