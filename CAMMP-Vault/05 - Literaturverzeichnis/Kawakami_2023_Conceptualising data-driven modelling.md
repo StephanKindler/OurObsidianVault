@@ -3,7 +3,7 @@ Erscheinungsdatum: 2023
 Datei: [[Kawakami-2023-Conceptualising data-driven modelling in school mathematics.pdf]]
 Citekey: @Kawa23Con
 %% 
-DOI: - 
+DOI:  
 Link: 
 %% 
 
@@ -47,7 +47,7 @@ Link:
 		- Vier Komponenten (nach English and Watson (2018))
 		- Folge von Aktivitäten von Datengenerierung, Validierung und Weiterentwicklung von Modellen die Trends und Varianz in realen Daten beschreiben sowie die Interpretation, Organisation und Verarbeitung von Daten für eine bessere Vorhersage 
 		- Legt den Fokus auf EM und DM und ermöglicht flexibles Wechseln zwischen ihnen 
-	- Model: 
+	- Modell: 
 		- Eine Repräsentation einer Struktur, welche die Interpretation des Modellierenden wiedergibt
 	- Signal in Daten
 		- Regelmäßige Strukturen und zentrale Trends in den Daten

@@ -18,31 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1467b7f3bdd8b035",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Literaturverzeichnis/Kawakami_2023_Conceptualising data-driven modelling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12902f7c0b15eba4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "07 - Docs/Kawakami-2023-Conceptualising data-driven modelling in school mathematics.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "44f1bdbbd4693130",
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Literaturverzeichnis/Kawakami_2023_Conceptualising data-driven modelling.md",
+                "file": "Vorlagen/Literatur-Vorlage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Literaturverzeichnis/Kawakami_2023_Conceptualising data-driven modelling.md",
+                "file": "Vorlagen/Literatur-Vorlage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Literaturverzeichnis/Kawakami_2023_Conceptualising data-driven modelling.md"
+                "file": "Vorlagen/Literatur-Vorlage.md"
               }
             }
           },
@@ -180,15 +156,15 @@
       "reference-map:Reference Map": false
     }
   },
-  "active": "1467b7f3bdd8b035",
+  "active": "ceb7c1f16eae89f7",
   "lastOpenFiles": [
-    "03 - Permanent Notes/Permanent Notes Dummie.md",
-    "statistische Modellierung.md",
-    "05 - Literaturverzeichnis/Kawakami_2023_Conceptualising data-driven modelling.md",
     "07 - Docs/Kawakami-2023-Conceptualising data-driven modelling in school mathematics.pdf",
+    "Vorlagen/Literatur-Vorlage.md",
+    "05 - Literaturverzeichnis/Kawakami_2023_Conceptualising data-driven modelling.md",
+    "statistische Modellierung.md",
+    "03 - Permanent Notes/Permanent Notes Dummie.md",
     "How to Obisidian.md",
     "05 - Literaturverzeichnis/Kondold_2002_Data Analysis as the Search for Signals in Noisy Processes.md",
-    "Vorlagen/Literatur-Vorlage.md",
     "06 - Figs/Pasted image 20230730225740.png",
     "02 - Literature Notes/Extended Notes - Dummie.md",
     "01 - Fleeting Notes/Fleeting Notes Dummie.md",
