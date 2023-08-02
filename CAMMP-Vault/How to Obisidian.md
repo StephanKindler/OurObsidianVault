@@ -17,7 +17,7 @@ von [[https://kadavy.net/blog/posts/zettelkasten-method-slip-box-digital-example
 >Hervorgehobenes Zitat 
 >`>[!info] `
 >`>Hervorgehobenes Zitat`
-
+Weitere [[https://help.obsidian.md/Editing+and+formatting/Callouts|Callout Layouts]]
 ## Code
 Code innerhalb eines Satzes `durch Backtiks` `
 
